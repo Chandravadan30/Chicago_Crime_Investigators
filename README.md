@@ -1,7 +1,3 @@
-Here is a description formatted for a GitHub project's `README.md` file.
-
----
-
 # Chicago Crime Analysis with Apache Spark
 
 This project uses Apache Spark to perform a comprehensive analysis of the "Crimes - 2001 to Present" dataset from the City of Chicago's data portal. The primary goal is to load, clean, transform, and analyze over a million rows of data to identify crime trends and patterns.
